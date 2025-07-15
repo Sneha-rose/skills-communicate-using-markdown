@@ -7,13 +7,6 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
-> 📌 **Important**: GitHub sometimes treats triple backticks strangely in web editors.  
-To fix this, **you can break the code block like this** if needed:
-
-<details>
-<summary>Alternative format if GitHub complains</summary>
-
-````markdown
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
